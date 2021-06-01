@@ -7,6 +7,10 @@ body{
  font-size: 100%;
  font-family: sans-serif;
 }
+#icons .fa-hover {
+	margin-bottom: 15px;
+	font-size: 15px;
+}
 
 body, ::-webkit-scrollbar, .imgrev::before{
   background: #0d0d0d;/*#231f20;*/
