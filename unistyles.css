@@ -12,6 +12,22 @@ body{
 	font-size: 15px;
 }
 
+.social-icons a.facebook:hover {
+	color: #3B5998;
+}
+
+.social-icons a.twitter:hover {
+	color: #00ACEE;
+}
+
+.social-icons a.linkedin:hover {
+	color: #0E76A8;
+}
+
+.social-icons a.instagram:hover {
+	color: #3f729b;
+}
+
 body, ::-webkit-scrollbar, .imgrev::before{
   background: #0d0d0d;/*#231f20;*/
 }
